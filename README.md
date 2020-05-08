@@ -6,8 +6,9 @@ simple machine learning algorithms (random Forest) for English to Igbo languages
 
 ------------------------------------------------------------------------------------------------------------
 
-Its an experimental work on the use of simple ML algorithms to perform sequence encoding and decoding of home domain
+Its an experimental work on the use of simple ML algorithms to perform sequence encoding and decoding of home domain 
 
 sentences from Igbo to English.
+
 ------------------------------------------------------------------------------------------------------------
 
